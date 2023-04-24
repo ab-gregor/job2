@@ -1,0 +1,24 @@
+{ 
+  "Jobs":[ 
+    {
+      "jobName": "A",
+      "Salary": 22222,
+      "Location": "kochi",
+      "Skills": "java"
+     },
+  
+  {
+    "jobName": "C",
+    "Salary": 100,
+    "Location": "tvm",
+    "Skills": "Html,CSS , React"
+  
+  }
+  ],
+  "users":[
+    {
+      "email":"donsagar@donsagar",
+       "password":"dondon"
+    }
+  ]
+}
