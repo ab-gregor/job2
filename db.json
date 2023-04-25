@@ -2,14 +2,14 @@
   "Jobs":[ 
     {
       "jobName": "A",
-      "Salary": 22222,
+      "Salary": "3lpa",
       "Location": "kochi",
       "Skills": "java"
      },
   
   {
     "jobName": "C",
-    "Salary": 100,
+    "Salary": "10lpa",
     "Location": "tvm",
     "Skills": "Html,CSS , React"
   
@@ -17,8 +17,8 @@
   ],
   "users":[
     {
-      "email":"donsagar@donsagar",
-       "password":"dondon"
+      "email":"alan@gmail.com",
+       "password":"alan"
     }
   ]
 }
